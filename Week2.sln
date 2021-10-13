@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interessi", "Interessi\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndovinaNumero", "IndovinaNumero\IndovinaNumero.csproj", "{64882249-FEC4-4192-BA8E-F1F09495F6A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercizioFattoriale", "EsercizioFattoriale\EsercizioFattoriale.csproj", "{CCDE6572-4183-46B8-A4D4-2A1E205FE6B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{64882249-FEC4-4192-BA8E-F1F09495F6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64882249-FEC4-4192-BA8E-F1F09495F6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64882249-FEC4-4192-BA8E-F1F09495F6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDE6572-4183-46B8-A4D4-2A1E205FE6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDE6572-4183-46B8-A4D4-2A1E205FE6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDE6572-4183-46B8-A4D4-2A1E205FE6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDE6572-4183-46B8-A4D4-2A1E205FE6B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
